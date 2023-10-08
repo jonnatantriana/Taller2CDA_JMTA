@@ -1,0 +1,196 @@
+country;hdicode;region;hdi_2010
+Afghanistan;Low;SA;0.448
+Angola;Medium;SSA;0.51
+Albania;High;ECA;0.754
+Andorra;Very High;ECA;0.848
+United Arab Emirates;Very High;AS;0.835
+Argentina;Very High;LAC;0.834
+Armenia;High;ECA;0.746
+Antigua and Barbuda;High;LAC;0.79
+Australia;Very High;EAP;0.923
+Austria;Very High;ECA;0.902
+Azerbaijan;High;ECA;0.727
+Burundi;Low;SSA;0.405
+Belgium;Very High;ECA;0.912
+Benin;Low;SSA;0.492
+Burkina Faso;Low;SSA;0.372
+Bangladesh;Medium;SA;0.553
+Bulgaria;High;ECA;0.79
+Bahrain;Very High;AS;0.808
+Bahamas;Very High;LAC;0.812
+Bosnia and Herzegovina;High;ECA;0.725
+Belarus;Very High;ECA;0.79
+Belize;Medium;LAC;0.707
+Bolivia;Medium;LAC;0.662
+Brazil;High;LAC;0.723
+Barbados;High;LAC;0.788
+Brunei;Very High;EAP;0.828
+Bhutan;Medium;SA;0.581
+Botswana;Medium;SSA;0.66
+Central African Rep,;Low;SSA;0.372
+Canada;Very High;NNA;0.911
+Switzerland;Very High;ECA;0.942
+Chile;Very High;LAC;0.813
+China;High;EAP;0.691
+Cote d'Ivoire;Medium;SSA;0.473
+Cameroon;Medium;SSA;0.513
+Congo;Low;SSA;0.429
+Congo;Medium;SSA;0.561
+Colombia;High;LAC;0.726
+Comoros;Medium;SSA;0.52
+Cape verde;Medium;SSA;0.644
+Costa Rica;Very High;LAC;0.772
+Cuba;High;LAC;0.78
+Cyprus;Very High;ECA;0.857
+Czech Rep,;Very High;ECA;0.87
+Germany;Very High;ECA;0.926
+Djibouti;Low;AS;0.458
+Dominica;High;LAC;0.711
+Denmark;Very High;ECA;0.913
+Dominican Rep,;High;LAC;0.708
+Algeria;High;AS;0.721
+Ecuador;High;LAC;0.736
+Egypt;High;AS;0.675
+Eritrea;Low;SSA;0.463
+Spain;Very High;ECA;0.868
+Estonia;Very High;ECA;0.861
+Ethiopia;Low;SSA;0.412
+Finland;Very High;ECA;0.911
+Fiji;High;EAP;0.714
+France;Very High;ECA;0.877
+Micronesia;Medium;EAP;0.625
+Gabon;High;SSA;0.664
+United Kingdom;Very High;ECA;0.912
+Georgia;Very High;ECA;0.759
+Ghana;Medium;SSA;0.574
+Guinea;Low;SSA;0.415
+Gambia;Low;SSA;0.46
+Guinea-Bissau;Low;SSA;0.443
+Equatorial Guinea;Medium;SSA;0.579
+Greece;Very High;ECA;0.869
+Grenada;High;LAC;0.782
+Guatemala;Medium;LAC;0.605
+Guyana;High;LAC;0.656
+Hong Kong;Very High;EAP;0.907
+Honduras;Medium;LAC;0.597
+Croatia;Very High;ECA;0.821
+Haiti;Low;LAC;0.433
+Hungary;Very High;ECA;0.828
+Indonesia;High;EAP;0.664
+India;Medium;SA;0.575
+Ireland;Very High;ECA;0.904
+Iran;High;SA;0.745
+Iraq;Medium;AS;0.64
+Iceland;Very High;ECA;0.902
+Israel;Very High;SA;0.894
+Italy;Very High;ECA;0.882
+Jamaica;High;LAC;0.704
+Jordan;High;AS;0.725
+Japan;Very High;EAP;0.898
+Kazakhstan;Very High;ECA;0.767
+Kenya;Medium;SSA;0.545
+Kyrgyzstan;Medium;ECA;0.664
+Cambodia;Medium;EAP;0.54
+Kiribati;Medium;EAP;0.589
+Saint Kitts and Nevis;High;LAC;0.759
+Korea;Very High;EAP;0.89
+Kuwait;Very High;AS;0.813
+Laos;Medium;EAP;0.551
+Lebanon;High;AS;0.77
+Liberia;Low;SSA;0.46
+Libya;High;AS;0.739
+Saint Lucia;High;LAC;0.728
+Liechtenstein;Very High;ECA;0.913
+Sri Lanka;High;SA;0.737
+Lesotho;Low;SSA;0.467
+Lithuania;Very High;ECA;0.842
+Luxembourg;Very High;ECA;0.912
+Latvia;Very High;ECA;0.824
+Morocco;Medium;AS;0.603
+Monaco;;ECA;
+Moldova;High;ECA;0.73
+Madagascar;Low;SSA;0.492
+Maldives;High;SA;0.688
+Mexico;High;LAC;0.746
+Marshall Islands;Medium;EAP;
+Macedonia;High;ECA;0.738
+Mali;Low;SSA;0.404
+Malta;Very High;ECA;0.861
+Myanmar;Medium;EAP;0.51
+Montenegro;Very High;ECA;0.808
+Mongolia;High;EAP;0.701
+Mozambique;Low;SSA;0.402
+Mauritania;Medium;SSA;0.51
+Mauritius;Very High;SSA;0.755
+Malawi;Low;SSA;0.456
+Malaysia;Very High;EAP;0.769
+Namibia;Medium;SSA;0.585
+Niger;Low;SSA;0.338
+Nigeria;Low;SSA;0.482
+Nicaragua;Medium;LAC;0.614
+Netherlands;Very High;ECA;0.917
+Norway;Very High;ECA;0.941
+Nepal;Medium;SA;0.543
+Nauru;;EAP;
+New Zealand;Very High;EAP;0.922
+Oman;Very High;AS;0.788
+Pakistan;Low;SA;0.505
+Panama;Very High;LAC;0.773
+Peru;High;LAC;0.725
+Philippines;Medium;EAP;0.674
+Palau;High;EAP;0.773
+Papua New Guinea;Medium;EAP;0.499
+Poland;Very High;ECA;0.841
+Korea;;EAP;
+Portugal;Very High;ECA;0.829
+Paraguay;High;LAC;0.685
+Palestine  State of;High;AS;0.687
+Qatar;Very High;AS;0.834
+Romania;Very High;ECA;0.807
+Russia;Very High;EAP;0.796
+Rwanda;Low;SSA;0.489
+Saudi Arabia;Very High;AS;0.816
+Sudan;Low;AS;0.486
+Senegal;Low;SSA;0.468
+Singapore;Very High;EAP;0.91
+Solomon Islands;Medium;EAP;0.55
+Sierra Leone;Low;SSA;0.427
+El Salvador;Medium;LAC;0.659
+San Marino;Very High;ECA;
+Somalia;;AS;
+Serbia;Very High;ECA;0.767
+South Sudan;Low;SSA;0.43
+Sao Tome and Principe;Medium;SSA;0.554
+Suriname;High;LAC;0.723
+Slovak Republic;Very High;ECA;0.84
+Slovenia;Very High;ECA;0.89
+Sweden;Very High;ECA;0.91
+Swaziland;Medium;SSA;0.503
+Seychelles;High;SSA;0.776
+Syria;Medium;AS;0.66
+Chad;Low;SSA;0.362
+Togo;Low;SSA;0.477
+Thailand;Very High;EAP;0.737
+Tajikistan;Medium;ECA;0.636
+Turkmenistan;High;ECA;0.711
+Timor-Leste;Medium;EAP;0.619
+Tonga;High;EAP;0.713
+Trinidad and Tobago;Very High;LAC;0.79
+Tunisia;High;AS;0.72
+Turkey;Very High;ECA;0.749
+Tuvalu;Medium;EAP;0.616
+Tanzania;Low;SSA;0.493
+Uganda;Low;SSA;0.502
+Ukraine;High;ECA;0.764
+Uruguay;Very High;LAC;0.787
+United States;Very High;NNA;0.911
+Uzbekistan;High;ECA;0.673
+Saint Vincent and the Grenadines;High;LAC;0.734
+Venezuela;Medium;LAC;0.755
+Vietnam;High;EAP;0.663
+Vanuatu;Medium;EAP;0.591
+Samoa;High;EAP;0.713
+Yemen;Low;AS;0.51
+South Africa;High;SSA;0.675
+Zambia;Medium;SSA;0.529
+Zimbabwe;Medium;SSA;0.512
